@@ -1,0 +1,8 @@
+<git 사용 가이드>
+1. git가입, github desktop 설치
+2. 협업용 github계정에서 계정등록
+- 작업전 pull하고 작업
+- 하나하나 요소들 pull request하면서 작업
+- push 충돌 오류 뜰때는 공유 후에 처리
+
+<유니티 버전 통일>
