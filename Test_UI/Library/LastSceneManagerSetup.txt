@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/ny496/Documents/GitHub/momenting/gameChat/Assets/GameChatSample/Scenes/SampleScene_Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
